@@ -40,8 +40,6 @@ Uygulamayı yalnızca yayıncıya güveniyorsanız kurun.
 Bu depo yalnızca yayınlanan APK dosyalarını ve kurulum bilgilerini içerir.
 Kaynak kodu, veritabanı ve dahili proje dosyaları bu depoya dahil değildir.
 
-##############################################################################
-
 ## MuslimHub
 ### Deutsch
 
@@ -82,9 +80,6 @@ Installiere die App nur, wenn du dem Herausgeber vertraust.
 Dieses Repository enthält nur die veröffentlichten APK-Dateien und Informationen zur Installation.
 Der Quellcode, die Datenbank und interne Projektdateien sind nicht Bestandteil dieses Repositories.
 
-
-##############################################################################
-
 ## Was macht MuslimHub? / MuslimHub ne işe yarar?
 
 ### Türkçe
@@ -93,8 +88,6 @@ MuslimHub, İslami içerikleri düzenli ve anlaşılır bir şekilde sunmayı am
 Uygulama; İslami şahsiyetler, gruplar, yerler, olaylar ve tarihî bağlantılar hakkında bilgileri daha kolay bulmayı ve birbirleriyle ilişkilendirmeyi amaçlar.
 
 MuslimHub’ın amacı, İslami bilgileri anlaşılır, düzenli ve mobil olarak erişilebilir hale getirmektir.
-
-##############################################################################
 
 ### Deutsch
 
